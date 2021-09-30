@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepak Yadav currently pursuing B.tech in Computer Science at Atharva College of Engineering(2019-23).
+- 👋 Hi, I’m Deepak Yadav currently pursuing B.Tech in Computer Science at Atharva College of Engineering(2019-23).
 
 - 👀 I’m interested in Full stack development, Machine learning , AI and DSA
 
