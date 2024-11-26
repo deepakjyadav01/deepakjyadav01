@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakjyadav01" alt="deepakjyadav01" /></a> </p>
 
-- 🔭 I’m currently working on **GoSolo**
+- 🔭 I’m currently working on **RAGs and Multi-RAGs using langchain and chainlit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
